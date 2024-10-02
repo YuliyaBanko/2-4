@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "babel-plugin-istanbul": "^7.0.0"
   }
 }
